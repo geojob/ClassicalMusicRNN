@@ -1,4 +1,4 @@
-# MOCA LSTM Music Generation -jb4512
+# RNN LSTM Music Generation 
 
 Overall Structure of the REPO:
 
